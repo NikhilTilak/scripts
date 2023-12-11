@@ -3,7 +3,7 @@ axes.titlesize : 16
 axes.labelsize : 14
 axes.linewidth: 3
 axes.labelweight: bold 
-lines.linewidth : 1
+lines.linewidth : 2
 lines.markersize : 10
 xtick.labelsize : 16
 ytick.labelsize : 16
