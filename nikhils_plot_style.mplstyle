@@ -15,7 +15,7 @@ xtick.major.width: 3
 ytick.major.width: 3
 xtick.minor.width: 2
 ytick.minor.width: 2
-legend.fontsize: 16
+legend.fontsize: 10
 legend.frameon: True
 legend.edgecolor: black
 legend.shadow: False
