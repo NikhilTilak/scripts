@@ -13,3 +13,19 @@ Another script calculates the power spectral density (PSD) of these signals for 
 ## Python packages used:
 
 Numpy, Scipy, Matplotlib, pandas, scikit-learn, Pyvisa
+
+## Using venv
+
+On MacOS :
+
+- Add venevdir/ to .gitignore file.
+
+- Initialize a virtual environment : python3 -m venv venvdir
+
+- Activate the virtua enviroment using : source venvdir/bin/activate
+
+- Install required packages listed in requirements.txt using : pip3 install -r requirements.txt
+
+
+
+
